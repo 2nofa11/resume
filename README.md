@@ -1,14 +1,12 @@
-# 2nofa11の職務経歴書
-
+# 2nofa11 の職務経歴書
 
 ## Data
 
+- [GitHub Pages]()
+- [PDF]()
+- [File]()
 
-- [GitHub Pages]()  
-- [PDF]()  
-- [File]()  
-
-## Features
+<!-- ## Features
 
 ### 💅 Lint text
 
@@ -18,7 +16,7 @@
 $ yarn lint --fix
 ```
 
-[husky](https://github.com/typicode/husky) によってcommit前にも自動で実行されます。  
+[husky](https://github.com/typicode/husky) によってcommit前にも自動で実行されます。
 校正のルールは`.textlintrc`に記載しています。
 
 
@@ -31,7 +29,7 @@ $ yarn build:pdf
 ```
 
 
-出力されるPDFはCSSで任意のスタイルを設定可能です。`pdf-configs/style.css`を編集してください。  
+出力されるPDFはCSSで任意のスタイルを設定可能です。`pdf-configs/style.css`を編集してください。
 
 ### 🛠 Create release
 
@@ -47,4 +45,4 @@ $ git push origin --tags
 
 GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
 
-期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/kawamataryo/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
+期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/kawamataryo/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。 -->
