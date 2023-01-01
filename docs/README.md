@@ -39,10 +39,6 @@
 - 英語
   - 勉強中
 
-## 強み
-
-## やったことはないが興味があるもの
-
 ## 職務経歴
 
 ### 2020/04 - 現在 : 株式会社ラクス
@@ -70,30 +66,35 @@
 ### 2016/04 - 2020/03: 富士通株式会社
 
 - **プロジェクト規模：**
-  - 最大 45 人程度の大規模システム 
+  - 最大 45 人程度の大規模システム
 - **役割：**
   - プロジェクト推進チーム（4 名）のリーダー
 - **プロジェクト詳細：**
   - 国が発刊している新聞の作成システム改修
   - 主な成果として、独自のテスト自動化ツール（RPA ツール）の開発を要件定義から運用保守までを担当
 
+## 強み
+
+- 非合理的な作業への自分なりの改善提案
+  業務フロー上で行っている非合理な作業についての洗い出し、解決を行ってきました。例えば株式会社ラクスでは、SaaS 製品のサービス開始に伴い、営業が手動でユーザーに通知メールを送信していました。月末月初では、一日最大 500 件もの登録を行う必要があることを感じ、販売管理システムからメール情報を Google Apps Script 経由でカレンダーから一括送信できるシステムを作成し、工数の大幅削減を達成しました
+
 ## 課外活動
 
 ### 社外プロジェクト
 
-* [ideee](https://www.ideee.tech/)
+- [ideee](https://www.ideee.tech/)
 
-### OSS活動
+### OSS 活動
 
-* [asciidwango/js-primer](https://github.com/asciidwango/js-primer)
-* [yytypescript/book](https://github.com/yytypescript/book)
+- [asciidwango/js-primer](https://github.com/asciidwango/js-primer)
+- [yytypescript/book](https://github.com/yytypescript/book)
 
 ### 過去の登壇資料
 
-* [一か月半かけて、TypeScript本を写経した話](https://speakerdeck.com/2nofa11)
-* [VueTestUtilbrのキホンの『キ』](https://speakerdeck.com/2nofa11/vuetestutilbrnokihonno-ki)
-* [エンジニア復帰に向けた学習内容のアウトプット](https://speakerdeck.com/2nofa11/enziniafu-gui-nixiang-ketaxue-xi-nei-rong-noautopututo)
+- [一か月半かけて、TypeScript 本を写経した話](https://speakerdeck.com/2nofa11)
+- [VueTestUtilbr のキホンの『キ』](https://speakerdeck.com/2nofa11/vuetestutilbrnokihonno-ki)
+- [エンジニア復帰に向けた学習内容のアウトプット](https://speakerdeck.com/2nofa11/enziniafu-gui-nixiang-ketaxue-xi-nei-rong-noautopututo)
 
 ### 受賞歴
 
-* ​	株式会社ラクス 業務改善賞
+- ​ 株式会社ラクス 業務改善賞
