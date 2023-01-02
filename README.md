@@ -2,9 +2,9 @@
 
 ## Data
 
-- [GitHub Pages]()
-- [PDF]()
-- [File]()
+- [GitHub Pages](https://2nofa11.github.io/resume/)
+- [PDF](https://github.com/2nofa11/resume/blob/master/docs/README.pdf)
+- [File](https://github.com/2nofa11/resume/blob/master/docs/README.md)
 
 <!-- ## Features
 
