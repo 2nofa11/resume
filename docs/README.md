@@ -48,12 +48,12 @@
 - **プロジェクト概要：**
   - 10 人程度のチーム開発
 - **役割：**
-  - コーディング、レビュー、チームビルディング
+  - 多領域のチームとのリレーション構築、コーディング、レビュー、チームビルディング
 - **プロジェクト詳細：**
   - 勤怠システムのフロントエンド開発
-  - Vue2 の EOL 対応
+  - レガシーシステムへのリファクタリング作業
 
-#### 業務改善チーム
+#### 事業管理部社内システムエンジニア
 
 - **プロジェクト規模：**
   - 平均 1〜2 人チームでの開発
@@ -66,7 +66,7 @@
 ### 2016/04 - 2020/03: 富士通株式会社
 
 - **プロジェクト規模：**
-  - 最大 45 人程度の大規模システム
+  - 大規模システムの業務ロジックチーム
 - **役割：**
   - プロジェクト推進チーム（4 名）のリーダー
 - **プロジェクト詳細：**
@@ -80,6 +80,13 @@
   例えば株式会社ラクスでは、SaaS 製品のサービス開始に伴い、営業が手動でユーザーに通知メールを送信しています。
   月末月初では、一日最大 500 件もの環境通知を手動で行ってたためへの改善をしました。
   販売管理システムからメール情報を Google Apps Script 経由でカレンダーから一括送信できるシステムを作成し工数の大幅削減を達成しました
+  
+- Vue2からVue3への移行業務 
+
+  Vue2を使った業務システムをVue3に移行するため以下の施策を提案・実行
+
+  * コンポーネントのリファクタリング　Class Style Component → Script Setup
+  * 状態管理ライブラリのバージョンアップ方式策定 Vuex → Pinia
 
 ## 課外活動
 
@@ -89,14 +96,15 @@
 
 ### OSS 活動
 
-- [asciidwango/js-primer](https://github.com/asciidwango/js-primer)
+- [asciidwango/js-primer](https://github.com/asciidwango/js-primer)　　
+  →[JavaScript Primer 迷わないための入門書](https://www.amazon.co.jp/JavaScript-Primer-%E8%BF%B7%E3%82%8F%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AE%E5%85%A5%E9%96%80%E6%9B%B8-azu/dp/4048930737) 第二版の執筆レビュアー
 - [yytypescript/book](https://github.com/yytypescript/book)
 
 ### 過去の登壇資料
 
+- [VuexからPinia移行に向けて](https://speakerdeck.com/2nofa11/vuexkarapiniayi-xing-nixiang-kete)
 - [一か月半かけて、TypeScript 本を写経した話](https://speakerdeck.com/2nofa11)
-- [VueTestUtilbr のキホンの『キ』](https://speakerdeck.com/2nofa11/vuetestutilbrnokihonno-ki)
-- [エンジニア復帰に向けた学習内容のアウトプット](https://speakerdeck.com/2nofa11/enziniafu-gui-nixiang-ketaxue-xi-nei-rong-noautopututo)
+- [VueTestUtilのキホンの『キ』](https://speakerdeck.com/2nofa11/vuetestutilbrnokihonno-ki)
 
 ### 受賞歴
 
