@@ -36,8 +36,6 @@
 
 - 日本語
   - ネイティブ
-- 英語
-  - 勉強中
 
 ## 職務経歴
 
@@ -48,9 +46,10 @@
 - **プロジェクト概要：**
   - 10 人程度のチーム開発
 - **役割：**
-  - 多領域のチームとのリレーション構築、コーディング、レビュー、チームビルディング
+  - 多領域のチームとのリレーション構築、要件検討～コーディング、運用
 - **プロジェクト詳細：**
-  - 勤怠システムのフロントエンド開発
+  - 勤怠システムの新機能開発
+  - Vue3 へのバージョンアップ作業
   - レガシーシステムへのリファクタリング作業
 
 #### 事業管理部社内システムエンジニア
@@ -80,13 +79,12 @@
   例えば株式会社ラクスでは、SaaS 製品のサービス開始に伴い、営業が手動でユーザーに通知メールを送信しています。
   月末月初では、一日最大 500 件もの環境通知を手動で行ってたためへの改善をしました。
   販売管理システムからメール情報を Google Apps Script 経由でカレンダーから一括送信できるシステムを作成し工数の大幅削減を達成しました
-  
-- Vue2からVue3への移行業務 
+- Vue2 から Vue3 への移行業務
 
-  Vue2を使った業務システムをVue3に移行するため以下の施策を提案・実行
+  Vue2 を使った業務システムを Vue3 に移行するため以下の施策を提案・実行
 
-  * コンポーネントのリファクタリング　Class Style Component → Script Setup
-  * 状態管理ライブラリのバージョンアップ方式策定 Vuex → Pinia
+  - コンポーネントのリファクタリング Class Style Component → Script Setup
+  - 状態管理ライブラリのバージョンアップ方式策定 Vuex → Pinia
 
 ## 課外活動
 
@@ -96,15 +94,22 @@
 
 ### OSS 活動
 
-- [asciidwango/js-primer](https://github.com/asciidwango/js-primer)　　
+- [asciidwango/js-primer](https://github.com/asciidwango/js-primer)  
   →[JavaScript Primer 迷わないための入門書](https://www.amazon.co.jp/JavaScript-Primer-%E8%BF%B7%E3%82%8F%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AE%E5%85%A5%E9%96%80%E6%9B%B8-azu/dp/4048930737) 第二版の執筆レビュアー
 - [yytypescript/book](https://github.com/yytypescript/book)
 
-### 過去の登壇資料
+### 過去のアウトプット
 
-- [VuexからPinia移行に向けて](https://speakerdeck.com/2nofa11/vuexkarapiniayi-xing-nixiang-kete)
+#### 登壇資料
+
+- [Vuex から Pinia 移行に向けて](https://speakerdeck.com/2nofa11/vuexkarapiniayi-xing-nixiang-kete)
 - [一か月半かけて、TypeScript 本を写経した話](https://speakerdeck.com/2nofa11)
-- [VueTestUtilのキホンの『キ』](https://speakerdeck.com/2nofa11/vuetestutilbrnokihonno-ki)
+- [VueTestUtil のキホンの『キ』](https://speakerdeck.com/2nofa11/vuetestutilbrnokihonno-ki)
+
+#### 記事投稿
+
+- [変数って 11 種類あんねん(TypeScript の例つき)](https://zenn.dev/shava2c/articles/1fe0e0bd13b115)
+- [2 ヶ月かけてブルーベリー本を写経したら TypeScript 力がついた](https://zenn.dev/shava2c/articles/6fd5ed3e31fb82)
 
 ### 受賞歴
 
